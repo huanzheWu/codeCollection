@@ -1,5 +1,3 @@
-package com.tencent.jungle.message.util;
-
 import com.google.inject.Inject;
 import com.google.inject.Injector;
 import com.google.inject.Singleton;
